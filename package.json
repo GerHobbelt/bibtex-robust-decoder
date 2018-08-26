@@ -1,0 +1,25 @@
+{
+  "name": "bibtex-robust-decoder",
+  "version": "0.0.1-1",
+  "description": "parser BibTeX records, BIB library files and QIQQA database dumps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerHobbelt/bibtex-robust-decoder.git"
+  },
+  "keywords": [
+    "bibtex",
+    "bib",
+    "qiqqa",
+    "parsing"
+  ],
+  "author": "Ger Hobbelt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerHobbelt/bibtex-robust-decoder/issues"
+  },
+  "homepage": "https://github.com/GerHobbelt/bibtex-robust-decoder#readme"
+}
