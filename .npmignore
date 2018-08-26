@@ -1,0 +1,7 @@
+# This stuff shouldn't end up in the npm distro...
+
+node_modules/
+
+# test data
+R-n-D/
+test/
