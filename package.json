@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/GerHobbelt/bibtex-robust-decoder/issues"
   },
-  "homepage": "https://github.com/GerHobbelt/bibtex-robust-decoder#readme"
+  "homepage": "https://github.com/GerHobbelt/bibtex-robust-decoder#readme",
+  "devDependencies": {
+    "jison-gho": "^0.6.1-215",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  }
 }
