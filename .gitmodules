@@ -6,7 +6,7 @@
 	url = git@github.com:JabRef/jabref.git
 [submodule "R-n-D/zotero-better-bibtex"]
 	path = R-n-D/zotero-better-bibtex
-	url = git@github.com:retorquere/zotero-better-bibtex.git
+	url = git@github.com:GerHobbelt/zotero-better-bibtex.git
 [submodule "R-n-D/digitalheir-bibliography-js"]
 	path = R-n-D/digitalheir-bibliography-js
 	url = git@github.com:digitalheir/bibliography-js.git
