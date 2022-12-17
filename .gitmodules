@@ -1,24 +1,24 @@
 [submodule "R-n-D/orcid-bibtexParse"]
 	path = R-n-D/orcid-bibtexParse
-	url = git@github.com:ORCID/bibtexParseJs.git
+	url = https://github.com/ORCID/bibtexParseJs.git
 [submodule "R-n-D/jabref"]
 	path = R-n-D/jabref
-	url = git@github.com:JabRef/jabref.git
+	url = https://github.com/JabRef/jabref.git
 [submodule "R-n-D/zotero-better-bibtex"]
 	path = R-n-D/zotero-better-bibtex
-	url = git@github.com:GerHobbelt/zotero-better-bibtex.git
+	url = https://github.com/GerHobbelt/zotero-better-bibtex.git
 [submodule "R-n-D/digitalheir-bibliography-js"]
 	path = R-n-D/digitalheir-bibliography-js
-	url = git@github.com:digitalheir/bibliography-js.git
+	url = https://github.com/digitalheir/bibliography-js.git
 [submodule "R-n-D/caltechlibrary-bibtex"]
 	path = R-n-D/caltechlibrary-bibtex
-	url = git@github.com:caltechlibrary/bibtex.git
+	url = https://github.com/caltechlibrary/bibtex.git
 [submodule "R-n-D/bkn-bibtex"]
 	path = R-n-D/bkn-bibtex
-	url = git@github.com:bkn/bibtex.git
+	url = https://github.com/bkn/bibtex.git
 [submodule "R-n-D/zekom-bibtex"]
 	path = R-n-D/zekom-bibtex
-	url = git@github.com:Zekom/bibtex.js.git
+	url = https://github.com/Zekom/bibtex.js.git
 [submodule "R-n-D/pcooksey-bibtex-js"]
 	path = R-n-D/pcooksey-bibtex-js
-	url = git@github.com:pcooksey/bibtex-js.git
+	url = https://github.com/pcooksey/bibtex-js.git
